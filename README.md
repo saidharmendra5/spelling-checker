@@ -35,10 +35,3 @@ This is a Spelling and Grammar Checker built using Python, Flask, NLTK, and the 
 1. Run `app.py` to start the Flask server.
 2. Navigate to `http://127.0.0.1:5000/` in your web browser.
 3. Input the text you want to correct and submit.
-
-
-## Future Enhancements
-
-- Adding support for multiple languages
-- Integration with external APIs for more comprehensive checks
-
