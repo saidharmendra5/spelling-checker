@@ -3,8 +3,12 @@
 ## Overview
 This is a Spelling and Grammar Checker built using Python, Flask, NLTK, and the LanguageTool library. It can correct spelling and grammatical errors in a given text. The application provides both a console-based interface and a web-based UI for user interaction.
 
-![image](https://github.com/bozkuya/Spelling-Grammar_Check_NLP_Model/assets/129911627/0622c9b0-393e-4d93-be41-59bede2e9f75)
 
+![Screenshot 2025-01-23 093649](https://github.com/user-attachments/assets/59605241-b7c5-4880-959d-16d8ffe05026)
+
+
+
+![Screenshot 2025-01-23 093705](https://github.com/user-attachments/assets/8ba52e22-7d7a-4c3c-9399-0851fdc0d298)
 
 ## Features
 
